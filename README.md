@@ -1,5 +1,5 @@
 
-File pthread_producer_consumer_program.c uses pthread library to implement a
+File "pthread_producer_consumer_program.c" uses pthread library to implement a
 producer thread and a consumer thread. The producer thread puts items in the
 items queue and the consumer thread consumes items from the items queue.
 
@@ -26,7 +26,8 @@ This program should link with the pthread library, so the option -lpthread
 should be passed to gcc for compiling this program.
 
 
-Shell script compile_pthread_producer_consumer_program.sh contains the commands
-to compile this program. You can run this script to compile this program.
+Shell script "compile_pthread_producer_consumer_program.sh" contains the
+commands to compile this program. You can run this script to compile this
+program.
 
 ---- End of README ----
